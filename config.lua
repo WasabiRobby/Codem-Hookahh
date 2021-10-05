@@ -1,13 +1,7 @@
---- CODEM-STORE   https://discord.gg/DEzwFvtTBB
---- CODEM-STORE   https://discord.gg/DEzwFvtTBB
---- CODEM-STORE   https://discord.gg/DEzwFvtTBB
---- CODEM-STORE   https://discord.gg/DEzwFvtTBB
-
 Config = {}
 
-Config.nargileYap = {
+Config.hookahYap = {
     coords = vector3(-635.5601, 233.80023, 81.88153),
-    drawText = "E - Take Hookah | K - Köz Al",
 }
 
 Config.Masalar = {
